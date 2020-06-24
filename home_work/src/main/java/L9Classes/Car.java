@@ -14,4 +14,5 @@ public class Car {
     public void printcarinfo(){
         System.out.println("Brand -> "+ brand+"\nModel -> "+ model+ "\nYear -> "+year +"\nColor -> "+ color+ "\nPrice -> "+price);
     }
+
 }
